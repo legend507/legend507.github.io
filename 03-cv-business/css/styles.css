@@ -183,14 +183,18 @@ b.max-bold{ font-weight: 700; }
 
 .experience-section{ background: #FAF5FC; }
 
-.experience .list > li{ display: block; position: relative; margin-bottom: 10px; }
+.experience .list > li{ display: block; position: relative; margin-bottom: 10px; text-align: left; }
+
+/* The second indent */
+.experience .list > li > ul {padding-left: 40px; list-style-type: square;}
 
 .experience .list > li > span{ position: relative; padding-left: 20px; }
 
 .experience .list > li span:before{ content: ''; position: absolute; top: 50%; left: 0; height: 10px; 
 	width: 10px; margin-top: -5px; display: block; border-radius: 10px; border: 2px solid #555; }
 
-	
+.experience .color-red { color: #f00; }
+
 
 /* ---------------------------------
 6. PORFOLIO SECTION
