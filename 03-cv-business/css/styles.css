@@ -119,8 +119,8 @@ b.max-bold{ font-weight: 700; }
 3. INTRO SECTION
 --------------------------------- */
 
-.intro-section{ padding: 50px 0; position: relative; background-size: cover; 
-	z-index: 1;background-image: url(../../images/slider-3-1920x1080_my.jpg); }
+.intro-section{ padding: 50px 0; position: relative; background-size: auto; 
+	z-index: 1;background-image: url(../../images/slider-3-1920x1080_my_.jpg); }
 
 .intro-section:before{ content:''; z-index: -1; position: absolute; top: 0; bottom: 0; left: 0; 
 	right: 0; background: rgba(0,0,0, .2); }
