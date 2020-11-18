@@ -24,7 +24,7 @@ description              : "An amazing website."
 url                      : "https://legend507.github.io"
 baseurl                  : # "/blog"
 repository               : "legend507/legend507.github.io"
-teaser                   : # "/assets/images/teaser_image.jpg"
+teaser                   : "/assets/images/teaser_image.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -99,8 +99,8 @@ author:
   location         : "Tokyo, Japan"
   email            : "chenfeiyu0620@gmail.com"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "chenfeiyu0620@gmail.com"
+      icon: "fas fa-fw fa-envelope"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
