@@ -99,8 +99,6 @@ author:
   location         : "Tokyo, Japan"
   email            : "chenfeiyu0620@gmail.com"
   links:
-    - label: "chenfeiyu0620@gmail.com"
-      icon: "fas fa-fw fa-envelope-square"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
