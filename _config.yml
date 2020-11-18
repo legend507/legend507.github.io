@@ -99,9 +99,8 @@ author:
   location         : "Tokyo, Japan"
   email            : "chenfeiyu0620@gmail.com"
   links:
-    - label: "Email"
+    - label: "chenfeiyu0620@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "chenfeiyu0620@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -113,7 +112,7 @@ author:
       url: "https://www.facebook.com/feiyu.chen.12"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/legend507"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -126,10 +125,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/feiyu.chen.12"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/legend507"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
