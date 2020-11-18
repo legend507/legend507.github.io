@@ -24,7 +24,7 @@ description              : "An amazing website."
 url                      : "https://legend507.github.io"
 baseurl                  : "/blog"
 repository               : "legend507/legend507.github.io"
-teaser                   : "/assets/images/teaser_image.png"
+teaser                   : "/assets/images/teaser_image.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Feiyu Chen"
   avatar           : "/assets/images/profile_photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Tokyo, Japan"
